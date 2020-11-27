@@ -1,4 +1,4 @@
 // Write your code here
-const multiply = (a,b) => {
-  return a * b
+const multiply = (num1, num2) => {
+  return num1 * num2
 }
